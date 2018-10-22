@@ -30501,7 +30501,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x1670.png",
+              "src": "@PROJECT_PATH@/assets/images/1400x1670.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -30641,7 +30641,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x16704.png",
+              "src": "@PROJECT_PATH@/assets/images/1400x16700.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -31100,7 +31100,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/2-1400x17125.png",
+              "src": "@PROJECT_PATH@/assets/images/2-1400x17121.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -31181,7 +31181,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x1712.png",
+              "src": "@PROJECT_PATH@/assets/images/1400x1712.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -32067,7 +32067,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x17126.png",
+              "src": "@PROJECT_PATH@/assets/images/1400x17122.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -32148,7 +32148,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x16707.png",
+              "src": "@PROJECT_PATH@/assets/images/1400x16703.png",
               "link": "",
               "alt": "",
               "title": ""
