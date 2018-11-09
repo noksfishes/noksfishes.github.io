@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
 
 
 
@@ -414,6 +415,10 @@ h6,
 #header1-6 .mbr-section-lead B {
   font-size: 30px;
 }
+
+
+
+
 #menu-5 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -487,15 +492,19 @@ h6,
 }
 #content1-6 P {
   font-size: 19px;
+  font-family: 'Noto Sans', sans-serif;
 }
 #msg-box5-7 P {
   text-align: left;
   font-size: 19px;
+  font-family: 'Noto Sans', sans-serif;
 }
 #msg-box5-8 P {
   font-size: 19px;
+  font-family: 'Noto Sans', sans-serif;
 }
 #msg-box5-9 P {
   text-align: left;
   font-size: 19px;
+  font-family: 'Noto Sans', sans-serif;
 }
