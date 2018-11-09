@@ -362,7 +362,7 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": 0,
+            "paddingTop": "1",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -441,7 +441,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/2-1400x177310.png",
+              "src": "@PROJECT_PATH@/assets/images/2-1400x177312.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -500,7 +500,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/2-1400x177311.png",
+              "src": "@PROJECT_PATH@/assets/images/2-1400x177313.png",
               "link": "",
               "alt": "",
               "title": ""
