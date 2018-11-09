@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "noksfishes_m3",
-    "currentPage": "week_23.html",
+    "currentPage": "interview_20.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -20,12 +20,15 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#a2defa",
+        "#deded0"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
-    "uniqCompNum": 9,
+    "uniqCompNum": 11,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -123,7 +126,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -196,6 +199,332 @@
           ],
           "_name": "image1",
           "_anchor": "image1-7"
+        }
+      ]
+    },
+    "interview_20.html": {
+      "settings": {
+        "meta_descr": "NOKS FISHES продовжує аналізувати, наскільки якісно вітчизняним журналістам вдається спілкуватися із топ-особами української політики",
+        "title": "ВИМІРЮВАННЯ ЕФЕКТИВНОСТІ ЖУРНАЛІСТІВ-20",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#a2defa"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#a2defa"
+            },
+            ".link, .dropdown-item": {
+              "color": "#a2defa"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#a2defa",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#a2defa",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-272x94.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">NOKS FISHES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-5"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1083.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.5"
+          },
+          "title": "ІНТЕРВ’Ю:\n<div>ВИМІРЮВАННЯ ЕКТИВНОСТІ ЖУРНАЛІСТІВ</div>",
+          "text": "<br>Випуск 20",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-4",
+          "_styles": {
+            ".mbr-section-title DIV": {
+              "font-size": "48px"
+            },
+            ".mbr-section-title": {
+              "font-size": "48px",
+              "color": "#efefef"
+            },
+            ".mbr-section-lead": {
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#deded0"
+          },
+          "text": "<p>Наш ювілейний двадцятий випуск проекту #ЧИТАЙУВАЖНО компанії NOKS FISHES та Центру досліджень публічної політики та комунікацій присвячено інтерв’ю на економічні теми. Так, ми проаналізували інтерв’ю з прем’єром Володиром Гройсманом (<a href=\"https://www.ukrinform.ua/rubric-economy/2568001-volodimir-grojsman-premerministr-ukraini.html\" target=\"_blank\">Укрінформ</a>, журналісти – Олександр Харченко, Олена Собко), в.о. міністра фінансів Оксаною Маркаровою (<a href=\"https://korrespondent.net/business/economics/4026078-o-denhakh-mvf-y-nalohakh-yntervui-hlavy-mynfyna\" target=\"_blank\">Кореспондент</a>, журналісти – Олександр Крамаренко, Валерій Літонінський) та розмову з головою Нафтогазу Андрієм Коболєвим (<a href=\"https://lb.ua/economics/2018/10/26/410816_andrey_kobolev_bez_kredita_mvf.html\" target=\"_blank\">Лівий берег</a>, журналісти – Соня Кошкіна та Андрій Яніцький).</p><p><br></p><p>\n</p><p>Формальним приводом для інтерв’ю із Володимиром Гройсманом став звіт про результати роботи за 9 місяців, про що і було повідомлено в коротенькій анотації до основного тексту. Проте, на нашу думку, журналісти не повністю використали потенціал анотації у зацікавленні читача, ймовірно орієнтуючись на відомість персони прем’єр-міністра. Також варто відзначити, що питання, що ставились Гройсману, були чіткими та передбачуваними, а відповіді респондента були здебільшого розлогі та виглядали підготовленими завчасно. Періодично складалося враження, що інтерв’ю мало за мету дати можливість Володимиру Гройсману публічно висловитися та навести свої аргументи після «токсичного» для політичних рейтингів підняття ціни на газ для населення. Тож, у даному випадку, досить важко оцінити рівень підготовки та компетентність журналістів. Володимир Гройсман не надав чіткої відповіді на третину питань (35%), а журналісти не повернулися до жодного з них.</p><p><br></p><p> \n</p><p>Анотація до інтерв’ю з Оксаною Маркаровою складалась з одного речення, у якому лише  анонсувались основні теми розмови з очільницею Мінфіну. На нашу думку, і персона в.о. міністра фінансів, і теми, що були підняті в розмові, заслуговували б на більш детальну анотацію. Підготовка журналістів до бесіди, на нашу думку, можна оцінити на 3 з 5 балів, адже питання, що ставили журналісти Оксані Маркаровій, були фаховими, проте доволі передбачуваними. Сама Маркарова ухилилася від чіткої відповіді на 7 питань (18% від усіх питань), а журналісти повернулися лише до одного з них (14% від кількості ухилянь). Тож, з огляду на невелику кількість ухилянь, ми вважаємо за доцільне оцінити керування ходом інтерв’ю на 4 з 5 балів.</p><p><br></p><p>\n</p><p>Робота Соні Кошкіної та Андрія Яніцького в інтерв’ю з Андрієм Коболєвим позитивно вирізняється серед інших. Анотація до даного тексту містила невелику передісторію Нафтогазу, були описані основні досягнення Коболєва на посаді керівника НАКу, а також основні теми, які обговорювалися із респондентом. Тож, на нашу думку, дана анотація заслуговує на максимальну оцінку. Варто відзначити, що Андрій Коболєв – непростий респондент для інтерв’ю. Він може говорити прямо про речі, які б інші спікери заговорювали, а також не коментувати питання з огляду на комерційну таємницю чи етику. Тож, Коболєв ухилився від 14% питань журналістів, які, у свою чергу, повернулися до чверті з них (27%). У певний момент Соня Кошкіна навіть зробила зауваження голові НАКу за ігнорування питань: «Вы уже второй или третий вопрос не комментируете...». Отже, керування перебігом інтерв’ю ми оцінили на 4 з 5 балів, оскільки значну частину питань Коболєв так і залишив без відповіді.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6",
+          "_styles": {
+            "P": {
+              "font-size": "19px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#deded0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/2-1400x1773.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Формальним приводом для інтерв’ю з Володимиром Гройсманом став звіт про результати роботи за 9 місяців, про що і було повідомлено в коротенькій анотації до основного тексту. Проте, на нашу думку, журналісти не повністю використали потенціал анотації у зацікавленні читача, ймовірно орієнтуючись на відомість персони прем’єр-міністра. Також варто відзначити, що питання, що ставились Гройсману, були чіткими та передбачуваними, а відповіді респондента були здебільшого розлогі та виглядали підготовленими завчасно.<br><br>Періодично складалося враження, що інтерв’ю мало за мету дати можливість Володимиру Гройсману публічно висловитися та навести свої аргументи після «токсичного» для політичних рейтингів підняття ціни на газ для населення. Тож, у даному випадку, досить важко оцінити рівень підготовки та компетентність журналістів. Володимир Гройсман не надав чіткої відповіді на третину питань (35%), а журналісти не повернулися до жодного з них. ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-7",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "19px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#deded0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/2-1400x17730.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Анотація до інтерв’ю з Оксаною Маркаровою складалась з одного речення, у якому лише  анонсувались основні теми розмови з очільницею Мінфіну. На нашу думку, і персона в.о. міністра фінансів, і теми, що були підняті в розмові, заслуговували б на більш детальну анотацію. <br><br>Підготовка журналістів до бесіди, на нашу думку, можна оцінити на 3 з 5 балів, адже питання, що ставили журналісти Оксані Маркаровій, були фаховими, проте доволі передбачуваними. Сама Маркарова ухилилася від чіткої відповіді на 7 питань (18% від усіх питань), а журналісти повернулися лише до одного з них (14% від кількості ухилянь). Тож, з огляду на невелику кількість ухилянь, ми вважаємо за доцільне оцінити керування ходом інтерв’ю на 4 з 5 балів.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-8",
+          "_styles": {
+            "P": {
+              "font-size": "19px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#deded0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/2-1400x17731.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Робота Соні Кошкіної та Андрія Яніцького в інтерв’ю з Андрієм Коболєвим позитивно вирізняється серед інших. Анотація до даного тексту містила невелику передісторію Нафтогазу, були описані основні досягнення Коболєва на посаді керівника НАКу, а також основні теми, які обговорювалися із респондентом. Тож, на нашу думку, дана анотація заслуговує на максимальну оцінку.<br><br>Варто відзначити, що Андрій Коболєв – непростий респондент для інтерв’ю. Він може говорити прямо про речі, які б інші спікери заговорювали, а також не коментувати питання з огляду на комерційну таємницю чи етику. Тож, Коболєв ухилився від 14% питань журналістів, які, у свою чергу, повернулися до чверті з них (27%). У певний момент Соня Кошкіна навіть зробила зауваження голові НАКу за ігнорування питань: «Вы уже второй или третий вопрос не комментируете...». Отже, керування перебігом інтерв’ю ми оцінили на 4 з 5 балів, оскільки значну частину питань Коболєв так і залишив без відповіді. ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-9",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "19px"
+            }
+          }
         }
       ]
     }
