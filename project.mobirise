@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "noksfishes_m3",
-    "currentPage": "interview_20.html",
+    "currentPage": "week_21.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -441,7 +441,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/2-1400x17736.png",
+              "src": "@PROJECT_PATH@/assets/images/2-1400x17734.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -500,7 +500,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/2-1400x17737.png",
+              "src": "@PROJECT_PATH@/assets/images/2-1400x17735.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -775,7 +775,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/2-1400x17736.png",
+              "src": "@PROJECT_PATH@/assets/images/2-1400x17734.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -834,7 +834,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/2-1400x17737.png",
+              "src": "@PROJECT_PATH@/assets/images/2-1400x17735.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -867,89 +867,6 @@
             }
           },
           "_anchor": "msg-box5-g"
-        }
-      ]
-    },
-    "page5.html": {
-      "settings": {
-        "title": "Page 5",
-        "meta_descr": "Дослідження NOKS FISHES",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 5
-      },
-      "components": [
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/tolpa-1491229033-1140x570.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#553982",
-            "overlayOpacity": "0.6"
-          },
-          "title": "ПРО ЩО\n<div>ГОВОРЯТЬ ПОЛІТИКИ</div>",
-          "text": "<b><br>23-й тиждень до виборів</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-lead B": {
-              "font-size": "30px"
-            }
-          },
-          "_anchor": "header1-k"
-        },
-        {
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Продовжуємо слідкувати за поширенням основних меседжів потенційних кандидатів на посаду президента та оцінювати ймовірне число контактів з інтернет-аудиторією. \n</p><p><br></p><p>За результатами минулого тижня (22-28 жовтня), найширшу ймовірну аудиторію зібрав Петро Порошенко, серед цитат якого найбільше число ймовірних читачів мали:\n</p><p>- доручення розширити програму субсидій, яке отримав від президента уряд;\n</p><p>- заяви під час візиту до Білорусі, в яких Порошенко назвав білорусько-український кордон - кордоном дружби;\n</p><p>- подяка Європарламенту за резолюцію щодо ситуації в Азовському морі.</p><p><br></p><p>\n</p><p>Серед заяв Тимошенко найбільше число ймовірних контактів з аудиторією отримали слова про початок “всеукраїнського руху за скасування підвищення ціни на газ для населення”. Критика тарифів та проекту держбюджету також стали основними темами найбільш поширюваних заяв Рабіновича.\n</p><p><br></p><p>Серед інших політиків, що привернули увагу топових інтернет-ресурсів та зібрали суттєву аудиторію, Андрій Садовий, який оголосив тези своєї доктрини перемоги у війні за Незалежність під час відкриття Lviv Security Forum.\n</p><p><br></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-l"
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/22-28.10-week-23-1400x2499.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-m"
         }
       ]
     },
@@ -1131,6 +1048,94 @@
           ],
           "_name": "image1",
           "_anchor": "image1-j"
+        }
+      ]
+    },
+    "week_21.html": {
+      "settings": {
+        "title": "Про що говорять політики",
+        "meta_descr": "Дослідження NOKS FISHES",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 5
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tolpa-1491229033-1140x570.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": "0.7"
+          },
+          "title": "ПРО ЩО\n<div>ГОВОРЯТЬ ПОЛІТИКИ</div>",
+          "text": "<b><br>21-й тиждень до виборів</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead B": {
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "header1-k"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Тим часом, як можливі кандидати на посаду президента нарощують активність та продовжують говорити, ми слідкуємо за їх відображенням в інтернет-медіа та інформуємо вас про найгучніші заяви тих, хто очолює соціологічні рейтинги.</p><p><br></p><p>\n</p><p>Традиційно, найбільше число ймовірних контактів з аудиторією протягом 5-11 листопада отримав Петро Порошенко, найпоширенішою заявою якого стали слова, що РПЦ є елементом російської політичної системи.&nbsp;</p><p><br></p><p>На другому місці за оцінкою ймовірної аудиторії опинилася заява від Рабіновича та Бойка про створення \"Оппозиційної платформи - За життя\". Юрій Бойко зазначав, що “об'єднання опозиції - це не просто необхідність. Це вимога українців”. А Вадим Рабінович підкреслював, що “мета опозиційної платформи - вивести єдиного кандидата у другий тур і перемогти”.\n</p><p><br></p><p>До п'ятірки заяв за найбільшою ймовірною інтернет-аудиторією також увійшли цитати Порошенка щодо фейкових виборів на Донбасі: президент закликав жителів окупованих територій не брати участь у виборах та казав про очікування нових санкцій Заходу проти РФ.</p><p><br></p><p> \n</p><p>Крім того, значне поширення отримали заяви Рабіновича під час слухань з питань свободи слова у Парижі, в яких він обіцяв, що зробить все, щоб українці змогли дивитися будь-які канали.\n</p><p><br></p><p>Хоча увага топових медіа до слів Юлії Тимошенко дещо знизилась протягом періоду, її заяви зібрали чималу ймовірну аудиторію та потрапили до десятки найгучніших. Лідерка партії ВО «Батьківщина» вимагала створення ТСК для розслідування нападів на активістів та продовжувала наполягати на негайному скасуванні підвищення ціни на газ.\n</p><p><br></p><p>Серед інших заяв зі значним ймовірним охопленням виправдовування Андрія Садового, який опинився в скандалі через оприлюднення розмови з образами та погрозами на адресу Катерини Гандзюк. Садовий визнав, що голос на плівці належить йому та приніс вибачення за свою “емоційну і неадекватну” реакцію.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-l",
+          "_styles": {
+            "P": {
+              "font-size": "23px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/05-11.11-week-21-1400x2244.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-m"
         }
       ]
     }

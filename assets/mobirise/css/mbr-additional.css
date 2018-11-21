@@ -601,9 +601,6 @@ h6,
   font-size: 19px;
   font-family: 'Noto Sans', sans-serif;
 }
-#header1-k .mbr-section-lead B {
-  font-size: 30px;
-}
 
 #menu-b .hide-buttons .nav-btn {
   display: none !important;
@@ -678,4 +675,10 @@ h6,
 #content1-i P {
   font-family: 'Noto Sans', sans-serif;
   font-size: 19px;
+}
+#header1-k .mbr-section-lead B {
+  font-size: 30px;
+}
+#content1-l P {
+  font-size: 23px;
 }
