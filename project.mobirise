@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "noksfishes_m3",
-    "currentPage": "interview_21.html",
+    "currentPage": "week_20.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
-    "uniqCompNum": 33,
+    "uniqCompNum": 36,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -1101,6 +1101,94 @@
           ],
           "_name": "image2",
           "_anchor": "image2-w"
+        }
+      ]
+    },
+    "week_20.html": {
+      "settings": {
+        "title": "Про що говорять політики",
+        "meta_descr": "Дослідження NOKS FISHES",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 6
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tolpa-1491229033-1140x570.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#7c706b",
+            "overlayOpacity": "0.7"
+          },
+          "title": "ПРО ЩО\n<div>ГОВОРЯТЬ ПОЛІТИКИ</div>",
+          "text": "<b><br>20-й тиждень до виборів</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead B": {
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "header1-x"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Продовжуємо стежити за політиками, що очолюють президентські рейтинги, та визначати ті їх заяви, що мають найбільшу ймовірну аудиторію серед інтернет-користувачів та, як наслідок, найбільші шанси бути почутими.\n</p><p><br></p><p>За результатами активності поширення заяв у топових інтернет-медіа протягом 12-18 листопада, групу лідерів сформували Петро Порошенко, тандем Вадим Рабінович-Юрій Бойко, а також Юлія Тимошенко.\n</p><p><br></p><p>Найпоширенішими, з огляду на кількість ймовірних контактів, стали слова Петра Порошенка, який прокоментував відсутність опалення в місті Сміла: «Крутити вентиль — це не є справа президента. Але як глава держави, я ні в якому разі не дам порушувати права громадян».\n</p><p><br></p><p>Майже таку ж ймовірну аудиторію зібрала заява Вадима Рабіновича про відмову брати участь у президентських перегонах через своє віросповідання. Рабінович зазначив, що “не має морального права бути суддею в питаннях православ'я”.\n</p><p><br></p><p>До п'ятірки заяв за найбільшою ймовірною інтернет-аудиторією також увійшли цитати Порошенка, який висунув ультимативну вимогу щодо держбюджету-2019 — “забезпечення субсидіями тих, хто їх реально потребує”, та подякував державам-членам ООН за нову резолюцію щодо Криму.\n</p><p><br></p><p>Серед інших тез, що набрали найбільше число потенційних контактів з аудиторією:\n</p><p>- заява Рабіновича про рішення стратегічної ради «Опозиційної платформи-За Життя», яка висунула на пост Юрія Бойка;\n</p><p>- заява Бойка про підтримку Рабіновича у разі висунення його єдиним кандидатом;\n</p><p>- заява Бойка про наміри трансформувати «Опозиційна платформа-За життя» в політичну партію, яку він зробив після інформації про вихід з «Опоблоку».\n</p><p><br></p><p>Значну ймовірну аудиторію також зібрала Юлія Тимошенко, заяви якої традиційно фокусувалися навколо тарифів та критики влади. Тимошенко казала, що “відсутність тепла — це свідчення непрофесійності влади” і “холод в оселях — це наслідок рішень Порошенка підняти ціну на газ”.</p><p><br></p><p>Також, лідерка партії ВО «Батьківщина» задекларувала наміри зменшити ціну на газ вдвічі після перемоги на президентських виборах. Варто зазначити, що встановлення тарифів не є прямою функцією президента, але Юлія Тимошенко про це не сказала.\n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "23px"
+            }
+          },
+          "_anchor": "content1-y"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/12-18.11-week-20-1400x2375.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-z"
         }
       ]
     }
