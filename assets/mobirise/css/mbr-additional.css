@@ -680,9 +680,11 @@ h6,
   font-family: 'Noto Sans', sans-serif;
   font-size: 19px;
 }
+
 #header1-x .mbr-section-lead B {
   font-size: 30px;
 }
 #content1-y P {
   font-size: 23px;
+  font-family: 'Noto Sans', sans-serif;
 }
