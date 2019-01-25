@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NOKS FISHES",
-    "currentPage": "index.html",
+    "currentPage": "interview_24.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -35,7 +35,7 @@
     "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-72607418-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "sitemapSwitcher": "on",
-    "uniqCompNum": 30,
+    "uniqCompNum": 40,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png"
   },
@@ -654,27 +654,43 @@
       "components": [
         {
           "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/000-1400x1050.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/microphones-2000x1400.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
+            "overlay": true,
+            "overlayColor": "#2969b0",
+            "overlayOpacity": "0.7"
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "ІНТЕРВ’Ю:\n<div>ВИМІРЮВАННЯ ЕФЕКТИВНОСТІ ЖУРНАЛІСТІВ</div><div><br></div>",
+          "text": "Випуск 24",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "image1",
-          "_anchor": "image1-n"
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title DIV": {
+              "font-size": "48px"
+            },
+            ".mbr-section-title": {
+              "font-size": "48px"
+            },
+            ".mbr-section-lead": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "header1-u"
         },
         {
           "_params": {
@@ -682,7 +698,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "text": "<p>У цьому випуску проекту #ЧИТАЙУВАЖНО компанії NOKS FISHES та Центру досліджень публічної політики та комунікацій детально розглядаємо інтерв’ю з Андрієм Садовим (Цензор.нет, журналіст – Євген Кузьменко) та Анатолієм Гриценком (Громадське, журналіст – Максим Каменєв) — політиками, об’єднання яких для спільного походу на вибори прогнозували та чекали багато хто, але унія так і не відбулася. Тож, ми проаналізували роботу журналістів та відповіді респондентів, як самостійних кандидатів на посаду президента, та готові поділитися з вами результатами.</p>",
+          "text": "<p>Передвиборча кампанія в Україні вже офіційно розпочалася, що, безумовно, вплинуло на пожвавлення активності серед політиків та журналістів. Проект #ЧИТАЙУВАЖНО компанії NOKS FISHES та Центру досліджень публічної політики та комунікацій продовжує стежити за інтерв’ю із впливовими українськими політиками та аналізувати роботу журналістів. У цьому випуску ми розглядаємо інтерв’ю з лідером Радикальної партії Олегом Ляшком (<a href=\"https://censor.net.ua/resonance/3105435/oleg_lyashko_timoshenko_proponu_kantslera_ya_proponuyu_jorstku_prezidentsku_vertikal\" target=\"_blank\" class=\"text-primary\">Цензор.нет</a>, журналіст – Євген Кузьменко), розмову з кандидатом у президенти від партії «УКРОП» Олександром Шевченком (<a href=\"https://apostrophe.ua/ua/article/politics/2019-01-08/esli-myi-budem-dalshe-imitirovat-borbu-s-putinyim-to-nikto-nam-bolshe-ne-poverit--aleksandr-shevchenko/22997?fbclid=IwAR08UVTVdGDCX6FaAu-WMtw2J7-LTnfQleM1SmmJkGHcyKeSF2ZctRMpKFE\" target=\"_blank\">Апостроф</a>, журналістка – Катерина Шумило) та інтерв’ю з народним депутатом та політтехнологом Вікторією Сюмар (<a href=\"https://www.liga.net/politics/interview/viktoriya-syumar-zelenskiy-ne-gotov-k-postu-prezidenta\" target=\"_blank\">Ліга.нет</a>, журналіст – Юрій Смирнов).&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -691,74 +707,11 @@
             "P": {
               "font-family": "'Noto Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
-              "font-size": "19px"
-            }
-          },
-          "_anchor": "content1-o"
-        },
-        {
-          "_inherit": "header2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#28262b"
-            },
-            ".mbr-section-text": {
-              "color": "#565656",
-              "text-align": "left",
               "font-size": "19px",
-              "font-family": "'Noto Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
+              "color": "#565656"
             }
           },
-          "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "showArrow": false,
-            "imageSize": "65",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#cccccc",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#ccc",
-            "overlayOpacity": "0.9"
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/interview-22-1-1400x1348.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "INTRO WITH YOUTUBE VIDEO",
-          "text": "Інтерв’ю з Андрієм Садовим починається із детальної анотації, в якій розповідається про історію Садового-кандидата, описується його позиція на сьогодні, а також зазначається основний перелік тем розмови. Тож, прочитавши таку анотацію, навіть непідготовлений читач може більш свідомо сприйняти основний текст інтерв’ю. Хто слідкує за нашим проектом,  міг помітити, що робота Євгена Кузьменка вже не вперше потрапляє під наш аналіз, але в попередніх випадках анотації були скоріше коротким описом основних тем. Цього разу — це і справді якісна та вичерпна анотація, яка зацікавлює і готує читача до основного тексту, за що ми й ставимо Євгену Кузьменку 5 балів. Журналіст також продемонстрував високий рівень компетентності та ставив влучні питання, що свідчить про підготовку до розмови. Андрій Садовий, як і більшість українських  політиків, не полюбляє відповідати прямо на питання, які можуть спровокувати чутки чи відкритий конфлікт з іншими представниками політичних сил. Але Євген Кузьменко проявив доволі наполегливу стратегію, особливо у питаннях щодо осіб, які, на думку Садового, причетні до «сміттєвої блокади» Львова. «Я все ж щодо розмови з Порошенком намагаюся вивести вас на максимум конкретики – але ви уникаєте чіткої розповіді», - прямо заявляв Євген Кузьменко. «Ну, хто конкретно? Назвіть прізвища», - не втомлювався уточнювати журналіст.&nbsp;«Ну, детально володіє нюансами Гринів. І детально володіє нюансами Ковальчук…», - в решті решт заявив Садовий. Але Андрій Іванович так і не відповів на багато інших питань, тому ми вважаємо за доцільне оцінити керування ходом бесіди на 4 з 5 балів.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header6",
-          "_anchor": "header6-p"
+          "_anchor": "content1-v"
         },
         {
           "_inherit": "msg-box5",
@@ -766,10 +719,10 @@
             "showTitle": false,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
-            "imageSize": "68",
-            "paddingTop": "0",
-            "paddingBottom": "3",
+            "inverse": false,
+            "imageSize": "67",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -786,7 +739,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/interview-22-2-1400x1154.png",
+              "src": "@PROJECT_PATH@/assets/images/24-1400x1212.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -805,7 +758,7 @@
             }
           },
           "title": "INTRO WITH YOUTUBE VIDEO",
-          "text": "<p>Інтерв’ю з Анатолієм Гриценком на Громадському було записано у відеоформаті, але згодом також було опубліковано у текстовому варіанті. До тексту була подана коротенька анотація, що містила лише опис обставин запису розмови та перелік основних тем, яку ми оцінили на 3 з 5 можливих балів. Щодо компетентності Максима Каменєва, то ми оцінили її на 4 бали. На нашу думку, журналіст припустився фактичної помилки щодо «мінського формату», а також не розкрив потенціал бесіди із респондентом до кінця. Анатолій Гриценко не надав прямої відповіді на 45% питань, а Максим Каменєв повернувся до половини з них (53%). Цікавою була реакція Анатолія Степановича на питання щодо «просвітницького авторитаризму», про який він охоче говорив раніше. «Забудьте це слово (авторитаризм – ред.), якщо воно вас шокує. Сильна рука, давайте по-іншому».</p>",
+          "text": "<p>Олег Ляшко – політик, якого можна назвати добре знайомим пересічним читачам, але, не зважаючи на це, інтерв’ю починається з доволі вдало побудованої анотації. На початку тексту називаються основні теми розмови, описується специфіка комунікаційного стилю та те, як непросто вивести такого респондента на конкретні відповіді. Тож, роботу Євгена Кузьменка над анотацією ми оцінили у найвищий бал. Також, високу оцінку журналіст отримав і за параметром “Компетентність”, адже в розмові були поставлені гострі питання, що стосувалися стосунків лідера радикалів з Рінатом Ахметовим, власною командою та основними претендентами на президентське крісло. «<a href=\"https://censor.net.ua/resonance/3105435/oleg_lyashko_timoshenko_proponu_kantslera_ya_proponuyu_jorstku_prezidentsku_vertikal\" target=\"_blank\">Олеже, давайте я вас прямо спитаю: Рінат Ахметов, на вашу думку, - це добро для України? Чи зло?</a>», - питав Євген Кузьменко. Однак, попри всі намагання журналіста, Ляшко так і не відповів на це та багато інших питань. Також, дивно виглядали підказки Ляшка про які саме теми він очікує питань від журналіста. З огляду на це, ми оцінили керування ходом інтерв’ю на 4 з 5 можливих бали.</p>",
           "_tags": [
             "Theme"
           ],
@@ -815,10 +768,135 @@
             "P": {
               "font-size": "19px",
               "font-family": "'Noto Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "color": "#565656",
+              "text-align": "left"
             }
           },
-          "_anchor": "msg-box4-q"
+          "_anchor": "msg-box4-w"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "68",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/24-1400x1222.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH YOUTUBE VIDEO",
+          "text": "<p>Інтерв’ю з Олександром Шевченком практично не має анотації перед основним текстом, окрім невеликого абзацу про те на які теми відбулася бесіда із лідером «УКРОПу». На нашу думку, постать Олександра Шевченка не є занадто відомою, а отже саме в анотації журналісти мали можливість познайомити читачів із Олександром Шевченком. Проте, цю можливість використано не було, а дана анотація, на нашу думку, заслуговує лише на 1 з 5 балів. Компетентність Катерини Шумило у даному інтерв’ю ми оцінили на рівні «задовільно»: в тексті не вистачало гострих питань, а коло тем  могло бути значно ширшим. З іншого боку, варто відзначити завзятість журналістки у прагненні отримати від Олександра Шевченка прямих відповідей на питання про ринок землі в Україні, окремі пункти передвиборчої програми та можливі рішення інших суспільних та економічних проблем. «<a href=\"https://apostrophe.ua/ua/article/politics/2019-01-08/esli-myi-budem-dalshe-imitirovat-borbu-s-putinyim-to-nikto-nam-bolshe-ne-poverit--aleksandr-shevchenko/22997?fbclid=IwAR08UVTVdGDCX6FaAu-WMtw2J7-LTnfQleM1SmmJkGHcyKeSF2ZctRMpKFE\" target=\"_blank\">Все ж таки, чому не можна відкрити ринок землі?</a>», -  наполягала Катерина Шумило. Однак, Олександр Шевченко, свідомо чи ні, так і не відповів ні на це, ні на низку інших питань. Тож, керування перебігом бесіди ми оцінили на 4 з 5 балів.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            "P": {
+              "font-size": "19px",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "color": "#565656"
+            }
+          },
+          "_anchor": "msg-box4-x"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "66",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/24-1400x1198.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH YOUTUBE VIDEO",
+          "text": "<p>Інтерв’ю з Вікторією Сюмар передує анотація, яка складається із трьох абзаців, де читач може дізнатися про контекст запису даного інтерв’ю, коротке резюме розмови та основні теми, що були озвучені. На нашу думку, така анотація є лаконічною та добре підготовленою, за що журналіст Юрій Смирнов отримує 4 з 5 балів. Щодо компетентності Юрія Смирнова у даному інтерв’ю, то можна відзначити, що пул питань, які були задані, відповідав компетенції Сюмар та стосувався актуальних тем, що і відобразилось в оцінці “добре” за параметром “Компетентність”. Варто відзначити відкритість Вікторії Сюмар у спілкуванні із журналістами, а також відсутність зловживання ухилянням від питань. Проте, на окремі теми Сюмар все ж таки не дала прямих відповідей, зокрема на питання «<a href=\"https://www.liga.net/politics/interview/viktoriya-syumar-zelenskiy-ne-gotov-k-postu-prezidenta\" target=\"_blank\">Об’єднання БПП і НФ є можливим?</a>»  журналіст та читач отримали у відповідь від Вікторії Сюмар «Все можливо». Спроба журналіста повернутися до цього та низки інших питань не вивела Сюмар на чіткі відповіді. Тож, на нашу думку, цього разу Юрій Смирнов впорався із керуванням ходом бесіди на 4 з 5 балів.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            "P": {
+              "color": "#565656",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "font-size": "19px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-y"
         }
       ]
     }

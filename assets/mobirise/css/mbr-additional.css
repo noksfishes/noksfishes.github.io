@@ -480,20 +480,35 @@ h6,
 
 
 
-#content1-o P {
+
+#header1-u .mbr-section-title DIV {
+  font-size: 48px;
+}
+#header1-u .mbr-section-title {
+  font-size: 48px;
+}
+#header1-u .mbr-section-lead {
+  font-size: 36px;
+}
+#content1-v P {
   font-family: 'Noto Sans', sans-serif;
   font-size: 19px;
+  color: #565656;
 }
-#header6-p .mbr-section-title {
-  color: #28262b;
-}
-#header6-p .mbr-section-text {
+#msg-box4-w P {
+  font-size: 19px;
+  font-family: 'Noto Sans', sans-serif;
   color: #565656;
   text-align: left;
-  font-size: 19px;
-  font-family: 'Noto Sans', sans-serif;
 }
-#msg-box4-q P {
+#msg-box4-x P {
   font-size: 19px;
   font-family: 'Noto Sans', sans-serif;
+  color: #565656;
+}
+#msg-box4-y P {
+  color: #565656;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 19px;
+  text-align: left;
 }
