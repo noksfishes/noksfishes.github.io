@@ -529,3 +529,18 @@ h6,
   font-size: 21px;
   font-family: 'Noto Sans', sans-serif;
 }
+
+#header1-1a .mbr-section-lead B {
+  font-size: 30px;
+  color: #cccccc;
+}
+#header1-1a .mbr-section-title {
+  color: #efefef;
+}
+#header1-1a .mbr-section-title DIV {
+  color: #efefef;
+}
+#content1-1b P {
+  font-size: 21px;
+  font-family: 'Noto Sans', sans-serif;
+}
