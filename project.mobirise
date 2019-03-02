@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NOKS FISHES",
-    "currentPage": "week_9.html",
+    "currentPage": "week_7.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -34,7 +34,7 @@
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-72607418-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "sitemapSwitcher": "on",
     "uniqCompNum": 58,
-    "versionPublish": "4.9.2",
+    "versionPublish": "4.9.4",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -1169,7 +1169,7 @@
       "settings": {
         "meta_descr": "Дослідження NOKS FISHES",
         "title": "Про що говорять політики",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -1241,6 +1241,100 @@
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/28.01-03.02-week-9-1400x2420.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1i"
+        }
+      ]
+    },
+    "week_7.html": {
+      "settings": {
+        "meta_descr": "Дослідження NOKS FISHES",
+        "title": "Про що говорять політики",
+        "order": 7
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tolpa-1491229033-1140x570.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#b8312f",
+            "overlayOpacity": "0.5"
+          },
+          "title": "ПРО ЩО\n<div>ГОВОРЯТЬ ПОЛІТИКИ</div>",
+          "text": "<br><b>7-й тиждень до виборів</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead B": {
+              "font-size": "30px",
+              "color": "#efefef"
+            },
+            ".mbr-section-title": {
+              "color": "#efefef"
+            },
+            ".mbr-section-title DIV": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "header1-1g"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "bgColor": "#cccccc"
+          },
+          "text": "<p>Протягом періоду 11-17 лютого найбільшу ймовірну інтернет-аудиторію серед заяв лідерів президентських рейтингів отримали висловлювання <b>Петра Порошенка</b> про затвердження \"Азовського пакету\" санкцій проти РФ, наміри підписати зміни до Конституції про курс до ЄС та НАТО, а також результати легалізації  авто з іноземною реєстрацією, кошти від якої дозволять здійснити індексацію пенсій.\r</p><p><br></p><p>На другій сходинці за рівнем ймовірного медіа-охоплення заяви <b>Юлії Тимошенко</b>, яка казала, що “нова влада має збільшити рівень зарплат до 1000 доларів”, рекомендувала генпрокурору Юрію Луценко піти у відпустку на час виборів, а також інформувала про консультації з МВФ щодо зниження цін на газ.\r</p><p><br></p><p>Серед інших заяв політиків з суттєвим числом ймовірних контактів — заяви кандидата від об'єднання «Самопоміч» <b>Андрія Садового</b>, який казав про наміри подати законопроект про імпічмент, радить чиновникам при владі ремонтувати в'язниці, “щоб потім комфортно було сидіти”, а також продовжує розповсюджувати деталі “пропозицій Порошенка” про зняття сміттєвої блокади Львова, що була у 2016 році.\r</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "21px",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
+            }
+          },
+          "_anchor": "content1-1h"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/11-17.02-week-7-1400x2335.png",
               "width": 1400,
               "link": "",
               "alt": "",
