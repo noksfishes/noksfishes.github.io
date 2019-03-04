@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NOKS FISHES",
-    "currentPage": "week_7.html",
+    "currentPage": "week_8.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -303,7 +303,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -647,7 +647,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -1335,6 +1335,100 @@
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/11-17.02-week-7-1400x2335.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1i"
+        }
+      ]
+    },
+    "week_8.html": {
+      "settings": {
+        "meta_descr": "Дослідження NOKS FISHES",
+        "title": "Про що говорять політики",
+        "order": 8
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tolpa-1491229033-1140x570.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#c0a375",
+            "overlayOpacity": "0.6"
+          },
+          "title": "ПРО ЩО\n<div>ГОВОРЯТЬ ПОЛІТИКИ</div>",
+          "text": "<br><b>8-й тиждень до виборів</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead B": {
+              "font-size": "30px",
+              "color": "#efefef"
+            },
+            ".mbr-section-title": {
+              "color": "#efefef"
+            },
+            ".mbr-section-title DIV": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "header1-1g"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "bgColor": "#cccccc"
+          },
+          "text": "<p>Найбільше ймовірне охоплення інтернет-аудиторії протягом періоду 4 — 10 лютого отримали цитати <b>Петра Порошенка</b>, які стосувались намірам не допустити російських спостерігачів на президентські вибори, підтримці відстороненої на той момент в.о. глави МОЗ Уляни Супрун та сподіванням щодо голосування ВР про курс на ЄС і НАТО.\r</p><p><br></p><p>На другій сходинці за рівнем ймовірного медіа-охоплення заяви <b>Юлії Тимошенко</b>, яка казала про необхідність бути частиною ЄС та НАТО, розповсюджувала інформацію про зростання рівня доходів <b>Петра Порошенка</b> у 82 рази та виказувала наміри передати МВС заяви про “підкуп виборців на користь Порошенка і про маніпуляції з реєстром виборців”.\r</p><p><br></p><p>Третю позицію за числом ймовірних контактів розділили <b>Анатолій Гриценко</b> та <b>Олег Ляшко</b>, які отримали майже рівне ймовірне охоплення 3-х найбільш резонансних заяв. \r</p><p><br></p><p><b>Анатолій Гриценко</b> привернув увагу медіа та зібрав значну ймовірну аудиторію внаслідок  розповсюдження заяви про наміри призначити Апаршина головою Міноборони, а також звинуваченнями чинної влади у підкупі виборців і черговій відповіді Ірині Луценко щодо її позову на захист «честі і гідності».\r</p><p><br></p><p><b>Олег Ляшко</b>, заяви якого зазвичай не так жваво поширюють топові інтернет-медіа, отримав суттєву кількість ймовірних контактів з аудиторію завдяки поширенню документа про відсторонення в.о. глави МОЗ Уляни Супрун від виконання обов’язків, а також блокуванню трибуни ВР з вимогами знизити ціни на газ та відправити у відставки керівництво \"Нафтогазу\".\r</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "21px",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
+            }
+          },
+          "_anchor": "content1-1h"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/04-10.02-week-8-1400x2361.png",
               "width": 1400,
               "link": "",
               "alt": "",
