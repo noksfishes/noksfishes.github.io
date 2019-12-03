@@ -3412,8 +3412,8 @@
             },
             ".mbr-section-title": {
               "color": "#cccccc",
-              "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "22px"
             },
             ".mbr-section-subtitle": {
