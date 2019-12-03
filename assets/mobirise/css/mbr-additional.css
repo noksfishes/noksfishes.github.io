@@ -1,10 +1,23 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -477,7 +490,7 @@ section.form .container {
 }
 #header3-1u .mbr-section-title {
   color: #cccccc;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-size: 22px;
 }
 #header3-1u .mbr-section-subtitle {
@@ -492,45 +505,54 @@ section.form .container {
 #content1-1v P {
   font-size: 20px;
   text-align: center;
+  font-family: 'PT Sans', sans-serif;
 }
 #msg-box4-1m P {
   color: #cccccc;
   font-size: 20px;
+  font-family: 'PT Sans', sans-serif;
 }
 #msg-box4-1n P {
   color: #c1c1c1;
   font-size: 20px;
+  font-family: 'PT Sans', sans-serif;
 }
 #msg-box4-1o P {
   color: #c1c1c1;
   font-size: 20px;
+  font-family: 'PT Sans', sans-serif;
 }
 #msg-box4-1p P {
   color: #c1c1c1;
   font-size: 20px;
+  font-family: 'PT Sans', sans-serif;
 }
 #msg-box4-1q P {
   color: #c1c1c1;
   font-size: 20px;
+  font-family: 'PT Sans', sans-serif;
 }
 #msg-box4-1r P {
   color: #c1c1c1;
   font-size: 20px;
+  font-family: 'PT Sans', sans-serif;
 }
 #msg-box4-1s P {
   color: #c1c1c1;
   font-size: 20px;
+  font-family: 'PT Sans', sans-serif;
 }
 #msg-box4-1t P {
   color: #c1c1c1;
   font-size: 20px;
+  font-family: 'PT Sans', sans-serif;
 }
 #header3-1w .mbr-section-title,
 #header3-1w .mbr-section-subtitle {
   text-align: center;
 }
 #header3-1w .mbr-section-title {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   color: #cccccc;
   font-size: 22px;
 }
@@ -556,6 +578,18 @@ section.form .container {
 #contacts5-20 .btn {
   font-family: 'Roboto Condensed', sans-serif;
 }
+#contacts5-20 .card-text {
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts5-20 .list-group-text {
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts5-20 SPAN {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+
 
 
 
@@ -599,6 +633,18 @@ section.form .container {
 #contacts5-20 .btn {
   font-family: 'Roboto Condensed', sans-serif;
 }
+#contacts5-20 .card-text {
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts5-20 .list-group-text {
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts5-20 SPAN {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+
 
 
 #content1-h P {
@@ -627,6 +673,18 @@ section.form .container {
 #contacts5-20 .btn {
   font-family: 'Roboto Condensed', sans-serif;
 }
+#contacts5-20 .card-text {
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts5-20 .list-group-text {
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts5-20 SPAN {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+
 
 
 #content1-l P {
@@ -655,6 +713,18 @@ section.form .container {
 #contacts5-20 .btn {
   font-family: 'Roboto Condensed', sans-serif;
 }
+#contacts5-20 .card-text {
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts5-20 .list-group-text {
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts5-20 SPAN {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+
 
 
 
@@ -713,6 +783,18 @@ section.form .container {
 #contacts5-20 .btn {
   font-family: 'Roboto Condensed', sans-serif;
 }
+#contacts5-20 .card-text {
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts5-20 .list-group-text {
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts5-20 SPAN {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+
 
 
 #content1-15 P {
@@ -741,6 +823,18 @@ section.form .container {
 #contacts5-20 .btn {
   font-family: 'Roboto Condensed', sans-serif;
 }
+#contacts5-20 .card-text {
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts5-20 .list-group-text {
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts5-20 SPAN {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+
 
 
 #header1-17 .mbr-section-lead B {
@@ -776,6 +870,18 @@ section.form .container {
 #contacts5-20 .btn {
   font-family: 'Roboto Condensed', sans-serif;
 }
+#contacts5-20 .card-text {
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts5-20 .list-group-text {
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts5-20 SPAN {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+
 
 
 #header1-1a .mbr-section-lead B {
@@ -814,44 +920,18 @@ section.form .container {
 #contacts5-20 .btn {
   font-family: 'Roboto Condensed', sans-serif;
 }
+#contacts5-20 .card-text {
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts5-20 .list-group-text {
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts5-20 SPAN {
+  font-family: 'Open Sans', sans-serif;
+}
 
 
-#header1-1g .mbr-section-lead B {
-  font-size: 30px;
-  color: #efefef;
-}
-#header1-1g .mbr-section-title {
-  color: #efefef;
-}
-#header1-1g .mbr-section-title DIV {
-  color: #efefef;
-}
-#content1-1h P {
-  font-size: 21px;
-  font-family: 'Noto Sans', sans-serif;
-}
-#contacts5-20 p,
-#contacts5-20 .list-group-text,
-#contacts5-20 .form-control-label {
-  color: #000;
-}
-#contacts5-20 strong,
-#contacts5-20 h4 {
-  color: #7e9b9f;
-}
-#contacts5-20 form .form-control {
-  border-color: rgba(0, 0, 0, 0.2);
-  color: #565656;
-}
-#contacts5-20 .mbr-footer-content li {
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
-}
-#contacts5-20 .mbr-company .list-group-text::after {
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
-}
-#contacts5-20 .btn {
-  font-family: 'Roboto Condensed', sans-serif;
-}
+
 
 
 #header1-1g .mbr-section-lead B {
@@ -890,6 +970,18 @@ section.form .container {
 #contacts5-20 .btn {
   font-family: 'Roboto Condensed', sans-serif;
 }
+#contacts5-20 .card-text {
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts5-20 .list-group-text {
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts5-20 SPAN {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+
 
 
 #header1-1g .mbr-section-lead B {
@@ -928,101 +1020,62 @@ section.form .container {
 #contacts5-20 .btn {
   font-family: 'Roboto Condensed', sans-serif;
 }
+#contacts5-20 .card-text {
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts5-20 .list-group-text {
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts5-20 SPAN {
+  font-family: 'Open Sans', sans-serif;
+}
 
 
 
 
-#header1-22 .mbr-section-title DIV {
-  font-size: 48px;
+
+#header1-1g .mbr-section-lead B {
+  font-size: 30px;
+  color: #efefef;
 }
-#header1-22 .mbr-section-title {
-  font-size: 48px;
+#header1-1g .mbr-section-title {
+  color: #efefef;
 }
-#header1-22 .mbr-section-lead {
-  font-size: 36px;
+#header1-1g .mbr-section-title DIV {
+  color: #efefef;
 }
-#header3-23 .mbr-section-title,
-#header3-23 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-23 .mbr-section-title {
-  color: #cccccc;
-  font-family: 'Raleway', sans-serif;
-  font-size: 22px;
-}
-#header3-23 .mbr-section-subtitle {
-  color: #cccccc;
-  font-family: 'Titillium Web', sans-serif;
-  text-align: center;
+#content1-1h P {
   font-size: 21px;
+  font-family: 'Noto Sans', sans-serif;
 }
-#content1-24 DIV {
-  color: #c1c1c1;
-}
-#content1-24 P {
-  font-size: 20px;
-  text-align: center;
-}
-#msg-box4-25 P {
-  color: #cccccc;
-  font-size: 20px;
-}
-#msg-box4-26 P {
-  color: #c1c1c1;
-  font-size: 20px;
-}
-#msg-box4-27 P {
-  color: #c1c1c1;
-  font-size: 20px;
-}
-#msg-box4-28 P {
-  color: #c1c1c1;
-  font-size: 20px;
-}
-#msg-box4-29 P {
-  color: #c1c1c1;
-  font-size: 20px;
-}
-#msg-box4-2a P {
-  color: #c1c1c1;
-  font-size: 20px;
-}
-#msg-box4-2b P {
-  color: #c1c1c1;
-  font-size: 20px;
-}
-#msg-box4-2c P {
-  color: #c1c1c1;
-  font-size: 20px;
-}
-#header3-2d .mbr-section-title,
-#header3-2d .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-2d .mbr-section-title {
-  font-family: 'Raleway', sans-serif;
-  color: #cccccc;
-  font-size: 22px;
-}
-#contacts5-2e p,
-#contacts5-2e .list-group-text,
-#contacts5-2e .form-control-label {
+#contacts5-20 p,
+#contacts5-20 .list-group-text,
+#contacts5-20 .form-control-label {
   color: #000;
 }
-#contacts5-2e strong,
-#contacts5-2e h4 {
+#contacts5-20 strong,
+#contacts5-20 h4 {
   color: #7e9b9f;
 }
-#contacts5-2e form .form-control {
+#contacts5-20 form .form-control {
   border-color: rgba(0, 0, 0, 0.2);
   color: #565656;
 }
-#contacts5-2e .mbr-footer-content li {
+#contacts5-20 .mbr-footer-content li {
   border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
 }
-#contacts5-2e .mbr-company .list-group-text::after {
+#contacts5-20 .mbr-company .list-group-text::after {
   border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
 }
-#contacts5-2e .btn {
+#contacts5-20 .btn {
   font-family: 'Roboto Condensed', sans-serif;
+}
+#contacts5-20 .card-text {
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts5-20 .list-group-text {
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts5-20 SPAN {
+  font-family: 'Open Sans', sans-serif;
 }
