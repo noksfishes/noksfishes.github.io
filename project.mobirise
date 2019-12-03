@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NOKS FISHES",
-    "currentPage": "index.html",
+    "currentPage": "movchit_vlada.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -36,7 +36,7 @@
     "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-72607418-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "sitemapSwitcher": "on",
-    "uniqCompNum": 74,
+    "uniqCompNum": 87,
     "versionPublish": "4.11.4",
     "screenshot": "screenshot.png"
   },
@@ -696,6 +696,10 @@
             "SPAN": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-footer-content p": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           },
           "_params": {
@@ -714,9 +718,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "phone",
+              "name": "mobile2",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -725,16 +730,18 @@
               "class": "mbr-iconfont-company-contacts5",
               "name": "map-pin",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media3": {
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "envelope",
+              "name": "letter",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "text5": "",
@@ -760,7 +767,7 @@
           },
           "title1": "<br><br><br>",
           "text1": "Ми пропонуємо технології та послуги щодо збору, систематизації та аналізу інформаційних та рекламних проявів, а також проведення репутаційних досліджень.",
-          "text2": "&nbsp;(+38044) 338-86-64\n<br>(+38095) 140-48-62",
+          "text2": "(+38044) 338-86-64\n<br>(+38095) 140-48-62",
           "text3": "НОКС ФІШЕC, ПП\n<br>15, вул. Ревуцького,\n<br>офіс 10, Київ, Україна",
           "text4": "mediavershky@gmail.com<br>",
           "text6": "<br><b><br></b><br><b>Комунікації\n</b><br><br>Без вагань звертайтеся\n<br>до нас за консультацією.\n<br>\n<br>Контактну інформацію надано\n<br>ліворуч.\n<br>\n<br>Або скористайтеся формою\n<br>швидкого листування праворуч.",
@@ -804,7 +811,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -1009,6 +1016,10 @@
             "SPAN": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-footer-content p": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           },
           "_params": {
@@ -1027,9 +1038,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "phone",
+              "name": "mobile2",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -1038,16 +1050,18 @@
               "class": "mbr-iconfont-company-contacts5",
               "name": "map-pin",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media3": {
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "envelope",
+              "name": "letter",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "text5": "",
@@ -1073,7 +1087,7 @@
           },
           "title1": "<br><br><br>",
           "text1": "Ми пропонуємо технології та послуги щодо збору, систематизації та аналізу інформаційних та рекламних проявів, а також проведення репутаційних досліджень.",
-          "text2": "&nbsp;(+38044) 338-86-64\n<br>(+38095) 140-48-62",
+          "text2": "(+38044) 338-86-64\n<br>(+38095) 140-48-62",
           "text3": "НОКС ФІШЕC, ПП\n<br>15, вул. Ревуцького,\n<br>офіс 10, Київ, Україна",
           "text4": "mediavershky@gmail.com<br>",
           "text6": "<br><b><br></b><br><b>Комунікації\n</b><br><br>Без вагань звертайтеся\n<br>до нас за консультацією.\n<br>\n<br>Контактну інформацію надано\n<br>ліворуч.\n<br>\n<br>Або скористайтеся формою\n<br>швидкого листування праворуч.",
@@ -1114,7 +1128,7 @@
       "settings": {
         "meta_descr": "Дослідження NOKS FISHES",
         "title": "Про що говорять політики",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1224,6 +1238,10 @@
             "SPAN": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-footer-content p": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           },
           "_params": {
@@ -1242,9 +1260,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "phone",
+              "name": "mobile2",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -1253,16 +1272,18 @@
               "class": "mbr-iconfont-company-contacts5",
               "name": "map-pin",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media3": {
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "envelope",
+              "name": "letter",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "text5": "",
@@ -1288,7 +1309,7 @@
           },
           "title1": "<br><br><br>",
           "text1": "Ми пропонуємо технології та послуги щодо збору, систематизації та аналізу інформаційних та рекламних проявів, а також проведення репутаційних досліджень.",
-          "text2": "&nbsp;(+38044) 338-86-64\n<br>(+38095) 140-48-62",
+          "text2": "(+38044) 338-86-64\n<br>(+38095) 140-48-62",
           "text3": "НОКС ФІШЕC, ПП\n<br>15, вул. Ревуцького,\n<br>офіс 10, Київ, Україна",
           "text4": "mediavershky@gmail.com<br>",
           "text6": "<br><b><br></b><br><b>Комунікації\n</b><br><br>Без вагань звертайтеся\n<br>до нас за консультацією.\n<br>\n<br>Контактну інформацію надано\n<br>ліворуч.\n<br>\n<br>Або скористайтеся формою\n<br>швидкого листування праворуч.",
@@ -1329,7 +1350,7 @@
       "settings": {
         "meta_descr": "Дослідження NOKS FISHES",
         "title": "Про що говорять політики",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1439,6 +1460,10 @@
             "SPAN": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-footer-content p": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           },
           "_params": {
@@ -1457,9 +1482,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "phone",
+              "name": "mobile2",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -1468,16 +1494,18 @@
               "class": "mbr-iconfont-company-contacts5",
               "name": "map-pin",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media3": {
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "envelope",
+              "name": "letter",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "text5": "",
@@ -1503,7 +1531,7 @@
           },
           "title1": "<br><br><br>",
           "text1": "Ми пропонуємо технології та послуги щодо збору, систематизації та аналізу інформаційних та рекламних проявів, а також проведення репутаційних досліджень.",
-          "text2": "&nbsp;(+38044) 338-86-64\n<br>(+38095) 140-48-62",
+          "text2": "(+38044) 338-86-64\n<br>(+38095) 140-48-62",
           "text3": "НОКС ФІШЕC, ПП\n<br>15, вул. Ревуцького,\n<br>офіс 10, Київ, Україна",
           "text4": "mediavershky@gmail.com<br>",
           "text6": "<br><b><br></b><br><b>Комунікації\n</b><br><br>Без вагань звертайтеся\n<br>до нас за консультацією.\n<br>\n<br>Контактну інформацію надано\n<br>ліворуч.\n<br>\n<br>Або скористайтеся формою\n<br>швидкого листування праворуч.",
@@ -1547,7 +1575,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -1830,6 +1858,10 @@
             "SPAN": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-footer-content p": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           },
           "_params": {
@@ -1848,9 +1880,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "phone",
+              "name": "mobile2",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -1859,16 +1892,18 @@
               "class": "mbr-iconfont-company-contacts5",
               "name": "map-pin",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media3": {
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "envelope",
+              "name": "letter",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "text5": "",
@@ -1894,7 +1929,7 @@
           },
           "title1": "<br><br><br>",
           "text1": "Ми пропонуємо технології та послуги щодо збору, систематизації та аналізу інформаційних та рекламних проявів, а також проведення репутаційних досліджень.",
-          "text2": "&nbsp;(+38044) 338-86-64\n<br>(+38095) 140-48-62",
+          "text2": "(+38044) 338-86-64\n<br>(+38095) 140-48-62",
           "text3": "НОКС ФІШЕC, ПП\n<br>15, вул. Ревуцького,\n<br>офіс 10, Київ, Україна",
           "text4": "mediavershky@gmail.com<br>",
           "text6": "<br><b><br></b><br><b>Комунікації\n</b><br><br>Без вагань звертайтеся\n<br>до нас за консультацією.\n<br>\n<br>Контактну інформацію надано\n<br>ліворуч.\n<br>\n<br>Або скористайтеся формою\n<br>швидкого листування праворуч.",
@@ -1935,7 +1970,7 @@
       "settings": {
         "meta_descr": "Дослідження NOKS FISHES",
         "title": "Про що говорять політики",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -2045,6 +2080,10 @@
             "SPAN": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-footer-content p": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           },
           "_params": {
@@ -2063,9 +2102,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "phone",
+              "name": "mobile2",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -2074,16 +2114,18 @@
               "class": "mbr-iconfont-company-contacts5",
               "name": "map-pin",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media3": {
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "envelope",
+              "name": "letter",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "text5": "",
@@ -2109,7 +2151,7 @@
           },
           "title1": "<br><br><br>",
           "text1": "Ми пропонуємо технології та послуги щодо збору, систематизації та аналізу інформаційних та рекламних проявів, а також проведення репутаційних досліджень.",
-          "text2": "&nbsp;(+38044) 338-86-64\n<br>(+38095) 140-48-62",
+          "text2": "(+38044) 338-86-64\n<br>(+38095) 140-48-62",
           "text3": "НОКС ФІШЕC, ПП\n<br>15, вул. Ревуцького,\n<br>офіс 10, Київ, Україна",
           "text4": "mediavershky@gmail.com<br>",
           "text6": "<br><b><br></b><br><b>Комунікації\n</b><br><br>Без вагань звертайтеся\n<br>до нас за консультацією.\n<br>\n<br>Контактну інформацію надано\n<br>ліворуч.\n<br>\n<br>Або скористайтеся формою\n<br>швидкого листування праворуч.",
@@ -2150,7 +2192,7 @@
       "settings": {
         "meta_descr": "Дослідження NOKS FISHES",
         "title": "Про що говорять політики",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -2269,6 +2311,10 @@
             "SPAN": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-footer-content p": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           },
           "_params": {
@@ -2287,9 +2333,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "phone",
+              "name": "mobile2",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -2298,16 +2345,18 @@
               "class": "mbr-iconfont-company-contacts5",
               "name": "map-pin",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media3": {
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "envelope",
+              "name": "letter",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "text5": "",
@@ -2333,7 +2382,7 @@
           },
           "title1": "<br><br><br>",
           "text1": "Ми пропонуємо технології та послуги щодо збору, систематизації та аналізу інформаційних та рекламних проявів, а також проведення репутаційних досліджень.",
-          "text2": "&nbsp;(+38044) 338-86-64\n<br>(+38095) 140-48-62",
+          "text2": "(+38044) 338-86-64\n<br>(+38095) 140-48-62",
           "text3": "НОКС ФІШЕC, ПП\n<br>15, вул. Ревуцького,\n<br>офіс 10, Київ, Україна",
           "text4": "mediavershky@gmail.com<br>",
           "text6": "<br><b><br></b><br><b>Комунікації\n</b><br><br>Без вагань звертайтеся\n<br>до нас за консультацією.\n<br>\n<br>Контактну інформацію надано\n<br>ліворуч.\n<br>\n<br>Або скористайтеся формою\n<br>швидкого листування праворуч.",
@@ -2374,7 +2423,7 @@
       "settings": {
         "meta_descr": "Дослідження NOKS FISHES",
         "title": "Про що говорять політики",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -2496,6 +2545,10 @@
             "SPAN": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-footer-content p": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           },
           "_params": {
@@ -2514,9 +2567,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "phone",
+              "name": "mobile2",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -2525,16 +2579,18 @@
               "class": "mbr-iconfont-company-contacts5",
               "name": "map-pin",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media3": {
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "envelope",
+              "name": "letter",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "text5": "",
@@ -2560,7 +2616,7 @@
           },
           "title1": "<br><br><br>",
           "text1": "Ми пропонуємо технології та послуги щодо збору, систематизації та аналізу інформаційних та рекламних проявів, а також проведення репутаційних досліджень.",
-          "text2": "&nbsp;(+38044) 338-86-64\n<br>(+38095) 140-48-62",
+          "text2": "(+38044) 338-86-64\n<br>(+38095) 140-48-62",
           "text3": "НОКС ФІШЕC, ПП\n<br>15, вул. Ревуцького,\n<br>офіс 10, Київ, Україна",
           "text4": "mediavershky@gmail.com<br>",
           "text6": "<br><b><br></b><br><b>Комунікації\n</b><br><br>Без вагань звертайтеся\n<br>до нас за консультацією.\n<br>\n<br>Контактну інформацію надано\n<br>ліворуч.\n<br>\n<br>Або скористайтеся формою\n<br>швидкого листування праворуч.",
@@ -2601,7 +2657,7 @@
       "settings": {
         "meta_descr": "Дослідження NOKS FISHES",
         "title": "Про що говорять політики",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -2723,6 +2779,10 @@
             "SPAN": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-footer-content p": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           },
           "_params": {
@@ -2741,9 +2801,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "phone",
+              "name": "mobile2",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -2752,16 +2813,18 @@
               "class": "mbr-iconfont-company-contacts5",
               "name": "map-pin",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media3": {
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "envelope",
+              "name": "letter",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "text5": "",
@@ -2787,7 +2850,7 @@
           },
           "title1": "<br><br><br>",
           "text1": "Ми пропонуємо технології та послуги щодо збору, систематизації та аналізу інформаційних та рекламних проявів, а також проведення репутаційних досліджень.",
-          "text2": "&nbsp;(+38044) 338-86-64\n<br>(+38095) 140-48-62",
+          "text2": "(+38044) 338-86-64\n<br>(+38095) 140-48-62",
           "text3": "НОКС ФІШЕC, ПП\n<br>15, вул. Ревуцького,\n<br>офіс 10, Київ, Україна",
           "text4": "mediavershky@gmail.com<br>",
           "text6": "<br><b><br></b><br><b>Комунікації\n</b><br><br>Без вагань звертайтеся\n<br>до нас за консультацією.\n<br>\n<br>Контактну інформацію надано\n<br>ліворуч.\n<br>\n<br>Або скористайтеся формою\n<br>швидкого листування праворуч.",
@@ -2828,7 +2891,7 @@
       "settings": {
         "meta_descr": "Дослідження NOKS FISHES",
         "title": "Про що говорять політики",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -2950,6 +3013,10 @@
             "SPAN": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-footer-content p": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           },
           "_params": {
@@ -2968,9 +3035,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "phone",
+              "name": "mobile2",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -2979,16 +3047,18 @@
               "class": "mbr-iconfont-company-contacts5",
               "name": "map-pin",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media3": {
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "envelope",
+              "name": "letter",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "text5": "",
@@ -3014,7 +3084,7 @@
           },
           "title1": "<br><br><br>",
           "text1": "Ми пропонуємо технології та послуги щодо збору, систематизації та аналізу інформаційних та рекламних проявів, а також проведення репутаційних досліджень.",
-          "text2": "&nbsp;(+38044) 338-86-64\n<br>(+38095) 140-48-62",
+          "text2": "(+38044) 338-86-64\n<br>(+38095) 140-48-62",
           "text3": "НОКС ФІШЕC, ПП\n<br>15, вул. Ревуцького,\n<br>офіс 10, Київ, Україна",
           "text4": "mediavershky@gmail.com<br>",
           "text6": "<br><b><br></b><br><b>Комунікації\n</b><br><br>Без вагань звертайтеся\n<br>до нас за консультацією.\n<br>\n<br>Контактну інформацію надано\n<br>ліворуч.\n<br>\n<br>Або скористайтеся формою\n<br>швидкого листування праворуч.",
@@ -3055,7 +3125,7 @@
       "settings": {
         "meta_descr": "Дослідження NOKS FISHES",
         "title": "Про що говорять політики",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -3177,6 +3247,10 @@
             "SPAN": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-footer-content p": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           },
           "_params": {
@@ -3195,9 +3269,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "phone",
+              "name": "mobile2",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -3206,16 +3281,18 @@
               "class": "mbr-iconfont-company-contacts5",
               "name": "map-pin",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media3": {
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "envelope",
+              "name": "letter",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "text5": "",
@@ -3241,7 +3318,7 @@
           },
           "title1": "<br><br><br>",
           "text1": "Ми пропонуємо технології та послуги щодо збору, систематизації та аналізу інформаційних та рекламних проявів, а також проведення репутаційних досліджень.",
-          "text2": "&nbsp;(+38044) 338-86-64\n<br>(+38095) 140-48-62",
+          "text2": "(+38044) 338-86-64\n<br>(+38095) 140-48-62",
           "text3": "НОКС ФІШЕC, ПП\n<br>15, вул. Ревуцького,\n<br>офіс 10, Київ, Україна",
           "text4": "mediavershky@gmail.com<br>",
           "text6": "<br><b><br></b><br><b>Комунікації\n</b><br><br>Без вагань звертайтеся\n<br>до нас за консультацією.\n<br>\n<br>Контактну інформацію надано\n<br>ліворуч.\n<br>\n<br>Або скористайтеся формою\n<br>швидкого листування праворуч.",
@@ -3275,6 +3352,769 @@
           },
           "_name": "contacts5",
           "_anchor": "contacts5-20"
+        }
+      ]
+    },
+    "movchit_vlada.html": {
+      "settings": {
+        "title": "Про що мовчить влада",
+        "meta_descr": "Дослідження NOKS FISHES",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/header7-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#2969b0",
+            "overlayOpacity": "0"
+          },
+          "title": "ПРО ЩО МОВЧИТЬ ВЛАДА?&nbsp;<br><div><br></div>",
+          "text": "Випуск 24",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title DIV": {
+              "font-size": "48px"
+            },
+            ".mbr-section-title": {
+              "font-size": "48px"
+            },
+            ".mbr-section-lead": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "header1-22"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#cccccc",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "22px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#cccccc",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "text-align": "center",
+              "font-size": "21px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#648395"
+          },
+          "title": "Аналітики NOKS FISHES традиційно аналізують політичний дискурс країни, що формується владою, оскільки переконані, те, що говорять (а, особливо, не говорять) українські політики і є нашою політичною реальністю.",
+          "meta": "Аналітики NOKS FISHES традиційно аналізують політичний дискурс країни, що формується владою, оскільки переконані, те, що говорять (а, особливо, не говорять) українські політики і є нашою політичною реальністю.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-23"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#648395"
+          },
+          "text": "<p>Проаналізувавши наприкінці весни контент президентської кампанії, ми дали політикам спокій, зачекали, доки почнуть працювати нові парламент та уряд, і у вересні повернулися до справ. У центрі нашої уваги 36 політиків (перелік – див. на слайдах 2-6), згадки про яких аналізуємо в контенті 100-а найбільш впливових та рейтингових медіа (за класифікацію Factum Group) у розрізі 10-и тематичних напрямків (перелік - див. на слайді 1). Предметом аналізу були лише тексти, заголовки яких містили згадку про політиків.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#c1c1c1"
+            },
+            "P": {
+              "font-size": "20px",
+              "text-align": "center",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_anchor": "content1-24"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "70",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#648395",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/000-1400x2987.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH YOUTUBE VIDEO",
+          "text": "<p>Підсумки наших спостережень свідчать про то, що, очікувано, найбільш активними в медійному сенсі політиками в жовтні та вересні були представники нової влади – президент, його Офіс, його більшість у парламенті, його уряд. Серед політиків, в кого кількість акцентованих згадок (таких, де їхні прізвища були в назві) в топ-100 українських медіа перевищує одну тисячу, Володимир Зеленський, Олексій Гончарук, Андрій Богдан, Вадим Пристайко, Дмитро Разумков, Руслан Рябошапка та Давид Арахамія (див. слайд 2-3). Отже, ними задається структура вітчизняного політичного дискурсу, оскільки сумарна активність представників «старої влади» не перевищує 10% в масиві, що аналізується (див. слайд 2-6). </p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            "P": {
+              "color": "#cccccc",
+              "font-size": "20px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_anchor": "msg-box4-25"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "70",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#648395",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/001-1400x2858.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH YOUTUBE VIDEO",
+          "text": "<p>Топ-тема, яка мала у вересні/жовтні найбільшу кількість фокусованих публікацій (таких, де в заголовку згадується політик), стосується війни на сході України та окупації Криму (див. слайд 1). Майже втричі менше медійної уваги політиків приділялося темам зростання економіки, антикорупції та  розвитку демократії. І абсолютна тематична периферія – це зростання якості життя українців, подолання соціальної нерівності та права жінок. Така ієрархія публічного дискурсу нової влади не відповідає програмним документам, з якими йшли на вибори Президент Володимир Зеленський та його партія «Слуга народу» і в центрі яких були розвиток та збереження людського капіталу в країні. Майже 50% текстів – це, так званий, «білий шум» медіаполя нових політиків в жовтні (і вересні), згадки, що не стосувалися жодної теми, в розрізі яких дослідники NOKS FISHES аналізували політичний дискурс країни. (див. слайд 1).</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            "P": {
+              "color": "#c1c1c1",
+              "font-size": "20px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_anchor": "msg-box4-26"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "70",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#648395",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/002-1400x2893.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH YOUTUBE VIDEO",
+          "text": "<p>Теми війни та окупації Криму, економічного розвитку та антикорупції мають високий рівень персоніфікації (акцентованої участі політиків) дискурсу. Майже не персоніфікованою є розмова влади із суспільством на теми якості життя, соціальної рівності\\рівності можливостей, покращення екологічної ситуації та прав жінок (див. слайд 1).</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            "P": {
+              "color": "#c1c1c1",
+              "font-size": "20px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_anchor": "msg-box4-27"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "70",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#648395",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/003-1400x2893.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH YOUTUBE VIDEO",
+          "text": "<p>Низький рівень акцентованої тематичної участі Президента Володимира Зеленського – ще одна характеристика українського політичного дискурсу жовтня і вересня 2019 р. Судячи з даних, навіть 14-годинний марафон Президента, що відбувся 10 жовтня, не вплинув на зростання фокусних згадок Володимира Зеленського у медіа в розрізі тем, які ми досліджуємо. Єдина тема, де участь президента є помітною, стосується війни та окупації (див. слайд 1). Втім, навіть тут хедлайнерами акцентованого дискурсу від влади були міністри Вадим Пристайко, Оксана Коляда, Андрій Загороднюк та Арсен Аваков. Розвиток економіки, демократії та антикорупція – на рівні 10% від всіх персоніфікованих згадок Президента (див. слайд 2). Цікаво, що, якщо за Конституцією (ст.103), Президент є гарантом реалізації стратегічного курсу держави на набуття повноправного членства України в ЄС та НАТО, то хедлайнером цієї теми в публічному полі є не Володимир Зеленський, а віце-прем’єр-міністр Дмитро Кулеба.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            "P": {
+              "color": "#c1c1c1",
+              "font-size": "20px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_anchor": "msg-box4-28"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "70",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#648395",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/004-1400x2893.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH YOUTUBE VIDEO",
+          "text": "<p>Оригінальною є комунікаційна модель українського уряду. Акцентованим хедлайнером теми розвитку економіки та економічного зростання є міністр економіки Тимофій Милованов: 88% згадок за темою у нього. Участь голови уряду Олексія Гончарука в цій темі менша в 2,5 рази, ніж у керівника МЕРТ (36%). (Див. слайд 1). Акцентована участь міністра фінансів Оксани Маркарової в темі економічного зростання – 39%. І ще. Теми, які були фокусом політичної передвиборчої програми Президента та його партії «Слуга народу» (зростання якості людського життя, рівні можливості, соціальна справедливість), майже не персоніфіковані в комунікаціях урядовців. </p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            "P": {
+              "color": "#c1c1c1",
+              "font-size": "20px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_anchor": "msg-box4-29"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "70",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#648395",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/005-1400x2893.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH YOUTUBE VIDEO",
+          "text": "<p>Максим Нефьодов, Владислав Криклій, Данило Гетьманцев, Олександр Корнієнко, Айварас Абромявичус, Сергій Верланов, Михайло Федоров, Альона Бабак – досліджувані представники влади, тематична структура медіаполя яких у жовтні змінилася порівняно із вереснем. У решти представників влади – структура медіаполя в жовтні демонструє сталість порівняно із вереснем. Серед політиків, які не представляють діючу владу, тематична структура медійного дискурсу поступово змінюється в жовтні у Юлії Тимошенко та Юрія Бойко (см. слайд 2-6)</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            "P": {
+              "color": "#c1c1c1",
+              "font-size": "20px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_anchor": "msg-box4-2a"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "70",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#648395",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/006-1400x2469.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH YOUTUBE VIDEO",
+          "text": "<p>Традиційно абсолютно неоднорідним залишається регіональний дискурс (див. слайд 5). Медіа Східного регіону (Донецьк, Луганськ, Харків) значну перевагу віддають темі війни та окупації. Медійним акцентом Північної України (Київ, Житомир, Суми, Чернігів) темі війни було присвячено значно менше уваги, проте частка текстів за темою була гуманітарна та соціокультурна політика. Медіа Західного регіону більше уваги, ніж в середньому по країні,  приділяють темам щодо оцінки якості життя.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            "P": {
+              "color": "#c1c1c1",
+              "font-size": "20px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_anchor": "msg-box4-2b"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "70",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#648395",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/007-1400x1169.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH YOUTUBE VIDEO",
+          "text": "<p><br></p><p>Отже, дуже стислі підсумки комунікацій у вересні-жовтні 2019 р. дають нам зрозуміти, що теми покращення життя українців та вирівнювання соціальних  диспропорцій залишаються по факту важкими для нової влади, так само, як для її попередників. Серед нових «фішок» - непублічність Президента з усіх досліджуваних тем (за виключенням – війни та окупації), вища за прем’єра тематична медійність окремих міністрів та зникнення з медійних радарів влади теми гендерної рівності. Отже спостерігаємо за комунікаціями в стилі «front office говорить», доки керівники держави «збираються із думками».<br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            "P": {
+              "color": "#c1c1c1",
+              "font-size": "20px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_anchor": "msg-box4-2c"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "color": "#cccccc",
+              "font-size": "22px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#648395"
+          },
+          "title": "Автори дослідження: Наталія Кононенко, ІПіЕНД НАНУ; Олеся Черниш, аналітик NOKS FISHES",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2d"
+        },
+        {
+          "_inherit": "contacts3",
+          "_styles": {
+            "p, .list-group-text, .form-control-label": {
+              "color": "#000"
+            },
+            "strong, h4": {
+              "color": "#7e9b9f"
+            },
+            "form .form-control": {
+              "border-color": "rgba(0, 0, 0, 0.2)",
+              "color": "#565656"
+            },
+            ".mbr-footer-content li": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
+            },
+            ".mbr-company .list-group-text::after": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            ".btn": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            ".card-text": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            ".list-group-text": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            "SPAN": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-footer-content p": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts5",
+              "linkInNewWindow": false,
+              "name": "mobile2",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts5",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts5",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0
+            }
+          },
+          "text5": "",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Надіслати</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1logo-shadowmediavershky3-265x35.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "<br><br><br>",
+          "text1": "Ми пропонуємо технології та послуги щодо збору, систематизації та аналізу інформаційних та рекламних проявів, а також проведення репутаційних досліджень.",
+          "text2": "(+38044) 338-86-64\n<br>(+38095) 140-48-62",
+          "text3": "НОКС ФІШЕC, ПП\n<br>15, вул. Ревуцького,\n<br>офіс 10, Київ, Україна",
+          "text4": "mediavershky@gmail.com<br>",
+          "text6": "<br><b><br></b><br><b>Комунікації\n</b><br><br>Без вагань звертайтеся\n<br>до нас за консультацією.\n<br>\n<br>Контактну інформацію надано\n<br>ліворуч.\n<br>\n<br>Або скористайтеся формою\n<br>швидкого листування праворуч.",
+          "form": {
+            "title": "MESSAGE",
+            "action": "mediavershky@gmail.com",
+            "alerts": {
+              "success": "Дякуємо за звернення!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Ваше ім’я"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Ваш Email"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Повідомлення"
+              }
+            }
+          },
+          "_name": "contacts5",
+          "_anchor": "contacts5-2e"
         }
       ]
     }
